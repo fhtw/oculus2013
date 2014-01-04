@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ThrowBall.cs">
+    <Files>
+      <File FileName="Assets\BallPickUp.cs" Line="32" Column="4" />
+      <File FileName="Assets\OVR\Editor\OVRPlayerControllerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\BreakingDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Openelevator.cs" Line="1" Column="1" />
+      <File FileName="Assets\ThrowBall.cs" Line="26" Column="6" />
+      <File FileName="Assets\BallPickUp.cs" Line="52" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
